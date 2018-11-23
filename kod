@@ -1,0 +1,12 @@
+#inlcude <iostream>
+
+using namespace std;
+
+int main(){
+
+
+cout << "Fajny kod";
+
+
+return 0;
+}
